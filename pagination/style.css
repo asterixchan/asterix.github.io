@@ -1,0 +1,63 @@
+body {
+  background-color: #273036;
+}
+.navbar {
+  background-color: #273036;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.jumbotron {
+  background-image: url(../img/ets.png);
+  background-size: cover;
+  padding-top: 6rem;
+  color: white;
+  min-height: 500px;
+}
+.jumbotron h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-weight: bold;
+}
+.about {
+  color: white;
+}
+
+.portfolio h2 {
+  color: white;
+}
+
+.card {
+  background-color: #424344;
+  color: white;
+}
+
+.contact {
+  color: white;
+}
+footer {
+  background-color: #131516;
+}
+section {
+  padding-top: 5rem;
+}
+.alamat {
+  background-color: #131516;
+  font-weight: bold;
+  text-decoration: none;
+}
+.page {
+  text-align: center;
+}
+
+.alamat h4 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.alamat a {
+  text-decoration-line: none;
+}
+
+.paket {
+  color: white;
+}
